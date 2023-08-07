@@ -1,0 +1,32 @@
+{
+  "stock": [
+    {
+      "id": "1",
+      "item": "boxer",
+      "quantity": "60",
+      "BuyingPrice": "200",
+      "SellingPrice": "300"
+    },
+    {
+      "id": "3",
+      "item": "panty",
+      "quantity": "100",
+      "BuyingPrice": "100",
+      "SellingPrice": "150"
+    },
+    {
+      "id": "2",
+      "item": "Shirt",
+      "quantity": "50",
+      "BuyingPrice": "140",
+      "SellingPrice": "200"
+    },
+    {
+      "id": "4",
+      "item": "fulana",
+      "quantity": "88",
+      "BuyingPrice": "15000",
+      "SellingPrice": "20000"
+    }
+  ]
+}

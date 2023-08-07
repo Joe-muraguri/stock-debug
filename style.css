@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+header{
+    background-color: rgb(53, 178, 137);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+h1{
+    color: blue;
+    padding: 20px;
+    
+
+}
+
+#addButton{
+    margin-left: 90%;
+    color: red;
+    font-size: 150%;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+
+}
+th, td{
+    border: 3px solid black;
+    padding: 10px 90px;
+}
+
+#popUp {
+    position: absolute;
+    text-align: center;
+    left: 40%;
+    top: 0%;
+    transition: transform 0.4s, top 0.4s;
+    
+}
+
+.openpopUp{
+    top: 30%;
+}
+
+#cancel {
+    background-color: red;
+    padding: 10px;
+    width: 30%;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+#add{
+    background-color: green;
+    width: 30%;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 30px;
+}
+
+#form{
+    border: 1px solid black;
+    width: 150%;
+    height: 120%;
+    background-color: darkgray;
+    border-radius: 10px;
+    padding: 10px;
+
+    
+}
+#form input{
+    margin-top: 30px;
+    background-color: beige;
+    padding: 10px;
+    border-radius: 8px;
+
+}
+
